@@ -1,13 +1,26 @@
 {
+  "name": "tailwind-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "start": "vite"
   },
-  "devDependencies": {
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumarsourav10/Tailwindcss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumarsourav10/Tailwindcss/issues"
+  },
+  "homepage": "https://github.com/kumarsourav10/Tailwindcss#readme",
+  "dependencies": {
     "autoprefixer": "^10.4.12",
     "postcss": "^8.4.17",
-    "tailwindcss": "^3.1.8"
-  },
-  "dependencies": {
+    "tailwindcss": "^3.1.8",
     "vite": "^3.1.7"
   }
 }
